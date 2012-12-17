@@ -1,4 +1,4 @@
-/** solution to http://projecteuler.net/problem=3 */
+/** tests and examples for pattern matching */
 object Main {
   def main(args: Array[String]) {
 		testIsFalse()
